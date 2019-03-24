@@ -11,5 +11,5 @@ NOTE: Please note that the files are tab-seperated values (.tsv) and contain  un
 2. Select Open and browse to the location of the desired data file, making sure the file type is All Files (*.*)
 3. Select the desired file and hit the Open button
 4. From the Text Import Wizard
-..Step 1 of 3: Make sure Delimited is selected and hit Next
-..Step 2 of 3: Make sure only Tab is selected then hit Finish
+  1. Step 1 of 3: Make sure Delimited is selected and hit Next
+  2. Step 2 of 3: Make sure only Tab is selected then hit Finish
