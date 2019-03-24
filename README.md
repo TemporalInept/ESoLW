@@ -8,7 +8,7 @@ Alternately, if you just want to get the Quarterly, click the esolw.pdf link and
 
 NOTE: Please note that the files are tab-seperated values (.tsv) and contain  unicode characters. If you're using MS Excel on Windows, the best way to view the data files after downloading and extracting the zip is to:
 1. Open MS Excel
-2. Select Open and browse to the location of the desired data file, making sure the file type is All Files (*.*)
+2. Select Open and browse to the location of the desired data file, making sure the file type is All Files (\*.\*)
 3. Select the desired file and hit the Open button
 4. From the Text Import Wizard
   * Step 1 of 3: Make sure Delimited is selected and hit Next
