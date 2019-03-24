@@ -1,2 +1,2 @@
 # ESoLW
-Survey of cEDH Decks
+Ertai's Study of Lesser Wizards: Quarterly Report Q1
