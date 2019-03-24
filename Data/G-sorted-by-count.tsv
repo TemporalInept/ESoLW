@@ -1,0 +1,151 @@
+Card	Decks	Type	Mana Cost
+Carpet of Flowers	40	Enchantment	G
+Birds of Paradise	37	Creature	G
+Sylvan Library	37	Enchantment	1G
+Nature's Claim	34	Instant	G
+Noxious Revival	33	Instant	G/P
+Arbor Elf	31	Creature	G
+Fyndhorn Elves	30	Creature	G
+Llanowar Elves	29	Creature	G
+Elvish Mystic	27	Creature	G
+Survival of the Fittest	18	Enchantment	1G
+Worldly Tutor	18	Instant	G
+Wild Growth	16	Enchantment	G
+Eternal Witness	15	Creature	1GG
+Priest of Titania	15	Creature	1G
+Utopia Sprawl	14	Enchantment	G
+Boreal Druid	13	Creature	G
+Green Sun's Zenith	13	Sorcery	XG
+Crop Rotation	12	Instant	G
+Protean Hulk	12	Creature	5GG
+Bloom Tender	12	Creature	1G
+Regrowth	10	Sorcery	1G
+Summoner's Pact	10	Instant	0
+Elvish Spirit Guide	9	Creature	2G
+Exploration	8	Enchantment	G
+Caustic Caterpillar	8	Creature	G
+Natural State	7	Instant	G
+Eldritch Evolution	7	Sorcery	1GG
+Sylvan Safekeeper	7	Creature	G
+Autumn's Veil	6	Instant	G
+Wall of Roots	6	Creature	1G
+Riftsweeper	6	Creature	1G
+Hermit Druid	6	Creature	1G
+Runic Armasaur	6	Creature	1GG
+Beast Within	6	Instant	2G
+Reclamation Sage	5	Creature	2G
+Chord of Calling	5	Instant	XGGG
+Quirion Ranger	5	Creature	G
+Sylvan Tutor	5	Sorcery	G
+Natural Order	5	Sorcery	2GG
+Yisan, the Wanderer Bard	5	Creature	2G
+Root Maze	5	Enchantment	G
+Seedborn Muse	4	Creature	3GG
+Birthing Pod	4	Artifact	3G/P
+Food Chain	4	Enchantment	2G
+Pattern of Rebirth	4	Enchantment	3G
+Devoted Druid	3	Creature	1G
+Temur Sabertooth	3	Creature	2GG
+Scavenging Ooze	3	Creature	1G
+Bane of Progress	3	Creature	4GG
+Mirri's Guile	3	Enchantment	G
+Wirewood Symbiote	3	Creature	G
+Compost	3	Enchantment	1G
+Druids' Repository	2	Enchantment	1GG
+Benefactor's Draught	2	Instant	1G
+Keen Sense	2	Enchantment	G
+Rishkar, Peema Renegade	2	Creature	2G
+Earthcraft	2	Enchantment	1G
+Wood Elves	2	Creature	2G
+Weird Harvest	2	Sorcery	XGG
+Nature's Will	2	Enchantment	2GG
+Concordant Crossroads	2	Enchantment	G
+Woodland Bellower	2	Creature	4GG
+Azusa, Lost but Seeking	2	Creature	2G
+Somberwald Stag	2	Creature	3GG
+Life from the Loam	2	Sorcery	1G
+Summer Bloom	2	Sorcery	1G
+Manglehorn	2	Creature	2G
+Selvala, Heart of the Wilds	2	Creature	1GG
+Glimpse of Nature	2	Sorcery	G
+Seasons Past	2	Sorcery	4GG
+Song of the Dryads	2	Enchantment	2G
+Scryb Ranger	2	Creature	1G
+Squirrel Nest	2	Enchantment	1GG
+Fauna Shaman	2	Creature	1G
+Tooth and Nail	1	Sorcery	5GG
+Prowling Serpopard	1	Creature	1GG
+Great Oak Guardian	1	Creature	5G
+Eladamri, Lord of Leaves	1	Creature	GG
+Uncage the Menagerie	1	Sorcery	XGG
+Ravenous Slime	1	Creature	2G
+Regal Force	1	Creature	4GGG
+Sylvan Ranger	1	Creature	1G
+Kamahl, Fist of Krosa	1	Creature	4GG
+Nature's Lore	1	Sorcery	1G
+Wall of Blossoms	1	Creature	1G
+Greater Good	1	Enchantment	2GG
+Sylvan Scrying	1	Sorcery	1G
+Noose Constrictor	1	Creature	1G
+Voyaging Satyr	1	Creature	1G
+Skullwinder	1	Creature	2G
+Tendershoot Dryad	1	Creature	4G
+Gaea's Blessing	1	Sorcery	1G
+Land Grant	1	Sorcery	1G
+Bow of Nylea	1	Enchantment Artifact	1GG
+Karametra's Acolyte	1	Creature	3G
+Beastcaller Savant	1	Creature	1G
+Kraul Harpooner	1	Creature	1G
+Berserk	1	Instant	G
+Sheltering Ancient	1	Creature	1G
+Scryb Sprites	1	Creature	G
+Dosan the Falling Leaf	1	Creature	1GG
+Melira, Sylvok Outcast	1	Creature	1G
+Generous Patron	1	Creature	2G
+Garruk, Primal Hunter	1	Planeswalker	2GGG
+Primal Command	1	Sorcery	3GG
+Channeler Initiate	1	Creature	1G
+Joraga Treespeaker	1	Creature	G
+Reclaim	1	Instant	G
+Craterhoof Behemoth	1	Creature	5GGG
+Ramunap Excavator	1	Creature	2G
+Krosan Wayfarer	1	Creature	G
+Duskwatch Recruiter	1	Creature	1G
+Somberwald Sage	1	Creature	2G
+Deglamer	1	Instant	1G
+Ravaging Riftwurm	1	Creature	1GG
+Nettle Sentinel	1	Creature	G
+Burgeoning	1	Enchantment	G
+Genesis Hydra	1	Creature	XGG
+Spire Tracer	1	Creature	G
+Phytoburst	1	Sorcery	1G
+City of Solitude	1	Enchantment	2G
+Soul's Majesty	1	Sorcery	4G
+Savage Summoning	1	Instant	G
+Ancient Animus	1	Instant	1G
+Xantid Swarm	1	Creature	G
+Ulvenwald Tracker	1	Creature	G
+Three Visits	1	Sorcery	1G
+Life's Legacy	1	Sorcery	1G
+Might of Old Krosa	1	Instant	G
+Genesis Wave	1	Sorcery	XGGG
+Heart Warden	1	Creature	1G
+Heritage Druid	1	Creature	G
+Fierce Empath	1	Creature	2G
+Vizier of the Menagerie	1	Creature	3G
+Bond Beetle	1	Creature	G
+Birchlore Rangers	1	Creature	G
+Gaea's Herald	1	Creature	1G
+Sakura-Tribe Scout	1	Creature	G
+Reap	1	Instant	1G
+Beast Whisperer	1	Creature	2GG
+Nantuko Tracer	1	Creature	1G
+Invigorate	1	Instant	2G
+Groundswell	1	Instant	G
+Treetop Scout	1	Creature	G
+Elvish Visionary	1	Creature	1G
+Lignify	1	Enchantment	1G
+Vines of Vastwood	1	Instant	G
+Momentous Fall	1	Instant	2GG
+Golgari Grave-Troll	1	Creature	4G
+Rishkar's Expertise	1	Sorcery	4GG

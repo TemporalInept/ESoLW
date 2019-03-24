@@ -1,0 +1,82 @@
+Card	Decks	Mana	Non-mana
+Mana Crypt	59	True	False
+Sol Ring	58	True	False
+Mox Diamond	57	True	False
+Chrome Mox	57	True	False
+Mana Vault	39	True	False
+Lotus Petal	35	True	False
+Fellwar Stone	30	True	False
+Sensei's Divining Top	30	False	True
+Grim Monolith	29	True	True
+Lion's Eye Diamond	22	True	False
+Talisman of Dominance	21	True	False
+Isochron Scepter	19	False	True
+Dimir Signet	17	True	False
+Talisman of Progress	9	True	False
+Aetherflux Reservoir	8	False	True
+Izzet Signet	8	True	False
+Simic Signet	7	True	False
+Walking Ballista	7	False	True
+Hope of Ghirapur	6	False	True
+Talisman of Indulgence	6	True	False
+Prismatic Lens	5	True	False
+Basalt Monolith	5	True	True
+Voltaic Key	5	False	True
+Mox Amber	5	True	False
+Mind Stone	4	True	True
+Azorius Signet	4	True	False
+Everflowing Chalice	4	True	False
+Thought Vessel	4	True	False
+Scroll Rack	4	False	True
+Birthing Pod	4	False	True
+Nihil Spellbomb	3	False	True
+Staff of Domination	3	False	True
+Memory Jar	2	False	True
+Altar of Dementia	2	False	True
+Spellskite	2	False	True
+Candelabra of Tawnos	2	False	True
+Golgari Signet	2	True	False
+Metalworker	2	True	False
+Springleaf Drum	2	True	False
+Fractured Powerstone	2	True	True
+Serum Powder	2	True	False
+Aether Spellbomb	2	False	True
+Lotus Bloom	2	True	False
+Rakdos Signet	2	True	False
+Codex Shredder	2	False	True
+Orzhov Signet	2	True	False
+Breya, Etherium Shaper	2	False	True
+Thousand-Year Elixir	2	False	True
+Jeweled Amulet	2	True	True
+Expedition Map	2	False	True
+Thran Dynamo	2	True	False
+Citanul Flute	1	False	True
+The Chain Veil	1	False	True
+Krark-Clan Ironworks	1	True	False
+Welding Jar	1	False	True
+Hedron Crawler	1	True	False
+Bow of Nylea	1	False	True
+Chromatic Star	1	True	False
+Sky Diamond	1	True	False
+Leaden Myr	1	True	False
+Honor-Worn Shaku	1	True	True
+Plague Myr	1	True	False
+Mishra's Bauble	1	False	True
+Urza's Bauble	1	False	True
+Arcbound Ravager	1	False	True
+Talisman of Impulse	1	True	False
+Chromatic Sphere	1	True	False
+Worn Powerstone	1	True	False
+Brass Squire	1	False	True
+Phyrexian Devourer	1	False	True
+Wayfarer's Bauble	1	False	True
+Palladium Myr	1	True	False
+Gilded Lotus	1	True	False
+Guardian Idol	1	True	True
+Silver Myr	1	True	False
+Hangarback Walker	1	False	True
+Conjurer's Bauble	1	False	True
+Silent Gravestone	1	False	True
+Manakin	1	True	False
+Astral Cornucopia	1	True	False
+Spawning Pit	1	False	True

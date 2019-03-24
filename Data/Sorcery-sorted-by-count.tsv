@@ -1,0 +1,117 @@
+Card	Decks	Color	Mana Cost	ACC	RCC
+Demonic Tutor	47	B	1B	N/A	N/A
+Imperial Seal	47	B	B	N/A	N/A
+Ponder	37	U	U	N/A	N/A
+Preordain	32	U	U	N/A	N/A
+Timetwister	30	U	2U	N/A	N/A
+Gitaxian Probe	28	U	U/P	0	N/A
+Windfall	25	U	2U	N/A	N/A
+Yawgmoth's Will	24	B	2B	N/A	N/A
+Toxic Deluge	24	B	2B	N/A	N/A
+Diabolic Intent	22	B	1B	N/A	N/A
+Wheel of Fortune	17	R	2R	N/A	N/A
+Reanimate	16	B	B	N/A	N/A
+Gamble	15	R	R	N/A	N/A
+Merchant Scroll	14	U	1U	N/A	N/A
+Green Sun's Zenith	13	G	XG	N/A	N/A
+Praetor's Grasp	11	B	1BB	N/A	N/A
+Regrowth	10	G	1G	N/A	N/A
+Cabal Therapy	10	B	B	N/A	N/A
+Life // Death	9	BG	G // 1B	N/A	N/A
+Grim Tutor	8	B	1BB	N/A	N/A
+Thoughtseize	8	B	B	N/A	N/A
+Buried Alive	7	B	2B	N/A	N/A
+Eldritch Evolution	7	G	1GG	N/A	N/A
+Sleight of Hand	7	U	U	N/A	N/A
+Dark Petition	7	B	3BB	N/A	N/A
+Doomsday	6	B	BBB	N/A	N/A
+Dread Return	6	B	2BB	N/A	N/A
+Rolling Earthquake	6	R	XR	N/A	N/A
+Mind's Desire	5	U	4UU	N/A	N/A
+Night's Whisper	5	B	1B	N/A	N/A
+Sylvan Tutor	5	G	G	N/A	N/A
+Natural Order	5	G	2GG	N/A	N/A
+Transmute Artifact	5	U	UU	N/A	N/A
+Faithless Looting	4	R	R	N/A	N/A
+Chart a Course	4	U	1U	N/A	N/A
+Duress	4	B	B	N/A	N/A
+Rite of Flame	3	R	R	N/A	N/A
+Careful Study	3	U	U	N/A	N/A
+Inquisition of Kozilek	3	B	B	N/A	N/A
+Mnemonic Betrayal	3	UB	1UB	N/A	N/A
+Massacre	3	B	2BB	N/A	N/A
+Postmortem Lunge	3	B	XB/P	X	N/A
+Exhume	3	B	1B	N/A	N/A
+Sickening Dreams	2	B	1B	N/A	N/A
+Ancestral Vision	2	U	0	N/A	N/A
+Winds of Change	2	R	R	N/A	N/A
+Personal Tutor	2	U	U	N/A	N/A
+Deep Analysis	2	U	3U	N/A	N/A
+Weird Harvest	2	G	XGG	N/A	N/A
+Glimpse of Nature	2	G	G	N/A	N/A
+Summer Bloom	2	G	1G	N/A	N/A
+Time Spiral	2	U	4UU	N/A	N/A
+Twinflame	2	R	1R	N/A	N/A
+Life from the Loam	2	G	1G	N/A	N/A
+Fabricate	2	U	2U	N/A	N/A
+Deathmark	2	B	B	N/A	N/A
+Treasure Cruise	2	U	7U	N/A	U
+Collective Brutality	2	B	1B	N/A	N/A
+Seasons Past	2	G	4GG	N/A	N/A
+Bubbling Muck	2	B	B	N/A	N/A
+Exsanguinate	2	B	XBB	N/A	N/A
+Enter the Infinite	2	U	8UUUU	N/A	N/A
+Dimir Machinations	1	B	2B	N/A	N/A
+Tooth and Nail	1	G	5GG	N/A	N/A
+Manifold Insights	1	U	2U	N/A	N/A
+Shattering Spree	1	R	R	N/A	N/A
+Uncage the Menagerie	1	G	XGG	N/A	N/A
+Past in Flames	1	R	3R	N/A	N/A
+Life's Legacy	1	G	1G	N/A	N/A
+Nature's Lore	1	G	1G	N/A	N/A
+Serum Visions	1	U	U	N/A	N/A
+Pyroclasm	1	R	1R	N/A	N/A
+Sylvan Scrying	1	G	1G	N/A	N/A
+Phytoburst	1	G	1G	N/A	N/A
+Recurring Insight	1	U	4UU	N/A	N/A
+Urza's Ruinous Blast	1	W	4W	N/A	N/A
+Gaea's Blessing	1	G	1G	N/A	N/A
+Land Grant	1	G	1G	0	N/A
+Time Warp	1	U	3UU	N/A	N/A
+Altar of Bone	1	WG	GW	N/A	N/A
+Reshape	1	U	XUU	N/A	N/A
+Victimize	1	B	2B	N/A	N/A
+Capture of Jingzhou	1	U	3UU	N/A	N/A
+Temporal Mastery	1	U	5UU	N/A	1U
+Wheel of Fate	1	R	0	N/A	N/A
+Bonus Round	1	R	1RR	N/A	N/A
+Vandalblast	1	R	R	N/A	N/A
+Whispering Madness	1	UB	2UB	N/A	N/A
+Primal Command	1	G	3GG	N/A	N/A
+Part the Waterveil	1	U	4UU	N/A	N/A
+Karn's Temporal Sundering	1	U	4UU	N/A	N/A
+Ravages of War	1	W	3W	N/A	N/A
+Trait Doctoring	1	U	U	N/A	N/A
+Diminishing Returns	1	U	2UU	N/A	N/A
+Footsteps of the Goryo	1	B	2B	N/A	N/A
+Three Visits	1	G	1G	N/A	N/A
+Fragmentize	1	W	W	N/A	N/A
+Devastation Tide	1	U	3UU	N/A	1U
+Genesis Wave	1	G	XGGG	N/A	N/A
+Manipulate Fate	1	U	1U	N/A	N/A
+Temporal Trespass	1	U	8UUU	N/A	UUU
+Maximize Velocity	1	R	R	N/A	N/A
+Extract	1	U	U	N/A	N/A
+Notorious Throng	1	U	3U	N/A	5U
+Soul's Majesty	1	G	4G	N/A	N/A
+Infernal Plunge	1	R	R	N/A	N/A
+Temporal Manipulation	1	U	3UU	N/A	N/A
+By Force	1	R	XR	N/A	N/A
+Show and Tell	1	U	2U	N/A	N/A
+Heat Shimmer	1	R	2R	N/A	N/A
+Last Chance	1	R	RR	N/A	N/A
+Walk the Aeons	1	U	4UU	N/A	N/A
+Foresight	1	U	1U	N/A	N/A
+Rishkar's Expertise	1	G	4GG	N/A	N/A
+Armageddon	1	W	3W	N/A	N/A
+Final Parting	1	B	3BB	N/A	N/A
