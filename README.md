@@ -1,6 +1,8 @@
 # Ertai's Study of Lesser Wizards
 
-: Quarterly Report Q1
+Ertai, the Corrupted has tasked his crew from  [Pennies from Phyrexia (PfP)](https://tappedout.net/mtg-decks/pennies-from-phyrexia-primer/) to stake out the other shows and report back to him.
+
+Ertai's Study of Lesser Wizards: Quarterly Report Q1 (esolw q1.pdf), a survey of cEDH decks after the release of Ravinca Allegiance, is now avaialble. 
 
 Downloading Quarterly and Data
 The easiest way is to hit the down arrow on the green "Clone or download" and button. Then select Download Zip. This will download both the Quarterly and the data.
