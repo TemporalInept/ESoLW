@@ -1,5 +1,6 @@
-# ESoLW
-Ertai's Study of Lesser Wizards: Quarterly Report Q1
+# Ertai's Study of Lesser Wizards
+
+: Quarterly Report Q1
 
 Downloading Quarterly and Data
 The easiest way is to hit the down arrow on the green "Clone or download" and button. Then select Download Zip. This will download both the Quarterly and the data.
