@@ -1,0 +1,173 @@
+Card	Decks	Type	Mana Cost
+Mystical Tutor	43	Instant	U
+Mystic Remora	42	Enchantment	U
+Brainstorm	41	Instant	U
+Mental Misstep	41	Instant	U/P
+Swan Song	40	Instant	U
+Pact of Negation	37	Instant	0
+Force of Will	37	Instant	3UU
+Ponder	37	Sorcery	U
+Flusterstorm	36	Instant	U
+Chain of Vapor	35	Instant	U
+Mana Drain	34	Instant	UU
+Dispel	33	Instant	U
+Preordain	32	Sorcery	U
+Delay	31	Instant	1U
+Timetwister	30	Sorcery	2U
+Gitaxian Probe	28	Sorcery	U/P
+Cyclonic Rift	28	Instant	1U
+Windfall	25	Sorcery	2U
+Dramatic Reversal	23	Instant	1U
+Negate	22	Instant	1U
+Spell Pierce	22	Instant	U
+Gilded Drake	21	Creature	1U
+Counterspell	19	Instant	UU
+Copy Artifact	18	Enchantment	1U
+Frantic Search	17	Instant	2U
+Laboratory Maniac	17	Creature	2U
+Intuition	16	Instant	2U
+Impulse	15	Instant	1U
+Merchant Scroll	14	Sorcery	1U
+Rhystic Study	12	Enchantment	2U
+Jace, Vryn's Prodigy	11	Creature	1U
+Winds of Rebuke	10	Instant	1U
+Spellseeker	10	Creature	2U
+Flash	9	Instant	1U
+Baral, Chief of Compliance	9	Creature	1U
+Narcomoeba	7	Creature	1U
+High Tide	7	Instant	U
+Sleight of Hand	7	Sorcery	U
+Opt	6	Instant	U
+Snapcaster Mage	6	Creature	1U
+Dig Through Time	6	Instant	6UU
+Into the Roil	6	Instant	1U
+Fact or Fiction	6	Instant	3U
+Pongify	6	Instant	U
+Consecrated Sphinx	5	Creature	4UU
+Gush	5	Instant	4U
+Reality Shift	5	Instant	1U
+Jin-Gitaxias, Core Augur	5	Creature	8UU
+Mind's Desire	5	Sorcery	4UU
+Cephalid Illusionist	5	Creature	1U
+Memory's Journey	5	Instant	1U
+Muddle the Mixture	5	Instant	UU
+Transmute Artifact	5	Sorcery	UU
+Mana Leak	4	Instant	1U
+Whir of Invention	4	Instant	XUUU
+Fatestitcher	4	Creature	3U
+Chart a Course	4	Sorcery	1U
+Pull from Tomorrow	4	Instant	XUU
+Snap	4	Instant	1U
+Misdirection	4	Instant	3UU
+Phantasmal Image	4	Creature	1U
+Back to Basics	3	Enchantment	2U
+Hurkyl's Recall	3	Instant	1U
+Careful Study	3	Sorcery	U
+Stroke of Genius	3	Instant	X2U
+Freed from the Real	3	Enchantment	2U
+Rapid Hybridization	3	Instant	U
+Cloud of Faeries	2	Creature	1U
+Spellskite	2	Artifact Creature	2
+Training Grounds	2	Enchantment	U
+Thirst for Knowledge	2	Instant	2U
+Personal Tutor	2	Sorcery	U
+Misthollow Griffin	2	Creature	2UU
+Curiosity	2	Enchantment	U
+Stifle	2	Instant	U
+Halimar Excavator	2	Creature	1U
+Time Spiral	2	Sorcery	4UU
+Flash of Insight	2	Instant	X1U
+Remand	2	Instant	1U
+Rebuild	2	Instant	2U
+Aether Spellbomb	2	Artifact	1
+Deep Analysis	2	Sorcery	3U
+Counterbalance	2	Enchantment	UU
+Fabricate	2	Sorcery	2U
+Treasure Cruise	2	Sorcery	7U
+Siren Stormtamer	2	Creature	U
+Enter the Infinite	2	Sorcery	8UUUU
+Ancestral Vision	2	Sorcery	0
+Submerge	2	Instant	4U
+Stubborn Denial	2	Instant	U
+Blue Sun's Zenith	2	Instant	XUUU
+Obsessive Search	2	Instant	U
+Power Artifact	2	Enchantment	UU
+Nezahal, Primal Tide	1	Creature	5UU
+Mausoleum Wanderer	1	Creature	U
+Stasis	1	Enchantment	1U
+Sleight of Mind	1	Instant	U
+Kiri-Onna	1	Creature	4U
+Mulldrifter	1	Creature	4U
+Manifold Insights	1	Sorcery	2U
+Palinchron	1	Creature	5UU
+Thought Scour	1	Instant	U
+Mind Bend	1	Instant	U
+Etherium Sculptor	1	Artifact Creature	1U
+Serum Visions	1	Sorcery	U
+Unified Will	1	Instant	1U
+Body Double	1	Creature	4U
+Mission Briefing	1	Instant	UU
+Recurring Insight	1	Sorcery	4UU
+Tetsuko Umezawa, Fugitive	1	Creature	1U
+Search for Azcanta	1	Enchantment	1U
+Loyal Drake	1	Creature	2U
+Nightveil Sprite	1	Creature	1U
+Time Warp	1	Sorcery	3UU
+Reshape	1	Sorcery	XUU
+Cephalid Inkshrouder	1	Creature	2U
+Sky Diamond	1	Artifact	2
+Capture of Jingzhou	1	Sorcery	3UU
+Temporal Mastery	1	Sorcery	5UU
+Deceiver Exarch	1	Creature	2U
+Thing in the Ice	1	Creature	1U
+Slithermuse	1	Creature	2UU
+Pestermite	1	Creature	2U
+Triton Shorestalker	1	Creature	U
+Unwind	1	Instant	2U
+Gudul Lurker	1	Creature	U
+Part the Waterveil	1	Sorcery	4UU
+Mystic Confluence	1	Instant	3UU
+Quicken	1	Instant	U
+Karn's Temporal Sundering	1	Sorcery	4UU
+Arcum Dagsson	1	Creature	3U
+Turnabout	1	Instant	2UU
+Teferi, Temporal Archmage	1	Planeswalker	4UU
+Trait Doctoring	1	Sorcery	U
+Diminishing Returns	1	Sorcery	2UU
+Slither Blade	1	Creature	U
+Foresight	1	Sorcery	1U
+Devastation Tide	1	Sorcery	3UU
+Unsubstantiate	1	Instant	1U
+Nexus of Fate	1	Instant	5UU
+Manipulate Fate	1	Sorcery	1U
+Hapless Researcher	1	Creature	U
+Temporal Trespass	1	Sorcery	8UUU
+Faerie Miscreant	1	Creature	U
+Predict	1	Instant	1U
+Spectral Shift	1	Instant	1U
+Extract	1	Sorcery	U
+Verity Circle	1	Enchantment	2U
+Stormscape Familiar	1	Creature	1U
+Silver Myr	1	Artifact Creature	2
+Spellstutter Sprite	1	Creature	1U
+Notorious Throng	1	Sorcery	3U
+Looter il-Kor	1	Creature	1U
+Daze	1	Instant	1U
+Trinket Mage	1	Creature	2U
+Wingcrafter	1	Creature	U
+Temporal Manipulation	1	Sorcery	3UU
+Alter Reality	1	Instant	1U
+Kederekt Leviathan	1	Creature	6UU
+Show and Tell	1	Sorcery	2U
+Sidisi's Faithful	1	Creature	U
+Glamerdye	1	Instant	1U
+Peregrine Drake	1	Creature	4U
+Anticipate	1	Instant	1U
+Pulse of the Grid	1	Instant	1UU
+Whim of Volrath	1	Instant	U
+Tezzeret the Seeker	1	Planeswalker	3UU
+Walk the Aeons	1	Sorcery	4UU
+Prohibit	1	Instant	1U
+Mist-Cloaked Herald	1	Creature	U
+Phyrexian Metamorph	1	Artifact Creature	3U/P
+Intruder Alarm	1	Enchantment	2U

@@ -1,0 +1,145 @@
+Card	Decks	Color	Mana Cost	ACC	RCC
+Vampiric Tutor	47	B	B	N/A	N/A
+Mystical Tutor	43	U	U	N/A	N/A
+Brainstorm	41	U	U	N/A	N/A
+Mental Misstep	41	U	U/P	0	N/A
+Swan Song	40	U	U	N/A	N/A
+Pact of Negation	37	U	0	N/A	N/A
+Force of Will	37	U	3UU	0	N/A
+Flusterstorm	36	U	U	N/A	N/A
+Chain of Vapor	35	U	U	N/A	N/A
+Mana Drain	34	U	UU	N/A	N/A
+Nature's Claim	34	G	G	N/A	N/A
+Dark Ritual	33	B	B	N/A	N/A
+Dispel	33	U	U	N/A	N/A
+Noxious Revival	33	G	G/P	0	N/A
+Lim-Dûl's Vault	31	UB	UB	N/A	N/A
+Ad Nauseam	31	B	3BB	N/A	N/A
+Delay	31	U	1U	N/A	N/A
+Abrupt Decay	28	BG	BG	N/A	N/A
+Cyclonic Rift	28	U	1U	N/A	N/A
+Enlightened Tutor	28	W	W	N/A	N/A
+Dramatic Reversal	23	U	1U	N/A	N/A
+Cabal Ritual	22	B	1B	N/A	N/A
+Negate	22	U	1U	N/A	N/A
+Spell Pierce	22	U	U	N/A	N/A
+Silence	21	W	W	N/A	N/A
+Entomb	21	B	B	N/A	N/A
+Counterspell	19	U	UU	N/A	N/A
+Assassin's Trophy	19	BG	BG	N/A	N/A
+Swords to Plowshares	18	W	W	N/A	N/A
+Worldly Tutor	18	G	G	N/A	N/A
+Pyroblast	18	R	R	N/A	N/A
+Frantic Search	17	U	2U	N/A	N/A
+Tainted Pact	17	B	1B	N/A	N/A
+Fire Covenant	17	BR	1BR	N/A	N/A
+Intuition	16	U	2U	N/A	N/A
+Impulse	15	U	1U	N/A	N/A
+Crop Rotation	12	G	G	N/A	N/A
+Red Elemental Blast	12	R	R	N/A	N/A
+Angel's Grace	11	W	W	N/A	N/A
+Demonic Consultation	11	B	B	N/A	N/A
+Winds of Rebuke	10	U	1U	N/A	N/A
+Summoner's Pact	10	G	0	N/A	N/A
+Eladamri's Call	10	WG	GW	N/A	N/A
+Flash	9	U	1U	N/A	N/A
+Culling the Weak	8	B	B	N/A	N/A
+High Tide	7	U	U	N/A	N/A
+Natural State	7	G	G	N/A	N/A
+Rain of Filth	7	B	B	N/A	N/A
+Opt	6	U	U	N/A	N/A
+Autumn's Veil	6	G	G	N/A	N/A
+Dig Through Time	6	U	6UU	N/A	UU
+Into the Roil	6	U	1U	N/A	N/A
+Plunge into Darkness	6	B	1B	N/A	N/A
+Beast Within	6	G	2G	N/A	N/A
+Fact or Fiction	6	U	3U	N/A	N/A
+Pongify	6	U	U	N/A	N/A
+Chord of Calling	5	G	XGGG	N/A	0
+Gush	5	U	4U	0	N/A
+Reality Shift	5	U	1U	N/A	N/A
+Shallow Grave	5	B	1B	N/A	N/A
+Memory's Journey	5	U	1U	N/A	N/A
+Muddle the Mixture	5	U	UU	N/A	N/A
+Mana Leak	4	U	1U	N/A	N/A
+Whir of Invention	4	U	XUUU	N/A	XUUU
+Abrade	4	R	1R	N/A	N/A
+Pull from Tomorrow	4	U	XUU	N/A	N/A
+Snap	4	U	1U	N/A	N/A
+Misdirection	4	U	3UU	0	N/A
+Wear // Tear	3	WR	1R // W	N/A	N/A
+Izzet Charm	3	UR	UR	N/A	N/A
+Slaughter Pact	3	B	0	N/A	N/A
+Seething Song	3	R	2R	N/A	N/A
+Stroke of Genius	3	U	X2U	N/A	N/A
+Manamorphose	3	RG	1R/G	N/A	N/A
+Rapid Hybridization	3	U	U	N/A	N/A
+Hurkyl's Recall	3	U	1U	N/A	N/A
+Path to Exile	2	W	W	N/A	N/A
+Thirst for Knowledge	2	U	2U	N/A	N/A
+Kozilek's Return	2		2R	N/A	N/A
+Stifle	2	U	U	N/A	N/A
+Benefactor's Draught	2	G	1G	N/A	N/A
+Final Fortune	2	R	RR	N/A	N/A
+Flash of Insight	2	U	X1U	N/A	N/A
+Remand	2	U	1U	N/A	N/A
+Rebuild	2	U	2U	N/A	N/A
+Guttural Response	2	RG	R/G	N/A	N/A
+Submerge	2	U	4U	N/A	N/A
+Stubborn Denial	2	U	U	N/A	N/A
+Blue Sun's Zenith	2	U	XUUU	N/A	N/A
+Obsessive Search	2	U	U	N/A	U
+Sleight of Mind	1	U	U	N/A	N/A
+Dimir Charm	1	UB	UB	N/A	N/A
+Thought Scour	1	U	U	N/A	N/A
+Pyretic Ritual	1	R	1R	N/A	N/A
+Lightning Bolt	1	R	R	N/A	N/A
+Vines of Vastwood	1	G	G	N/A	N/A
+Mission Briefing	1	U	UU	N/A	N/A
+Mogg Salvage	1	R	2R	N/A	N/A
+Predict	1	U	1U	N/A	N/A
+Disenchant	1	W	1W	N/A	N/A
+Desperate Ritual	1	R	1R	N/A	N/A
+Mana Tithe	1	W	W	N/A	N/A
+Fork	1	R	RR	N/A	N/A
+Sacrifice	1	B	B	N/A	N/A
+Mind Bend	1	U	U	N/A	N/A
+Unified Will	1	U	1U	N/A	N/A
+Thunderclap	1	R	2R	0	N/A
+Songs of the Damned	1	B	B	N/A	N/A
+Rending Volley	1	R	R	N/A	N/A
+Chaos Warp	1	R	2R	N/A	N/A
+Berserk	1	G	G	N/A	N/A
+Unwind	1	U	2U	N/A	N/A
+Corpse Dance	1	B	2B	N/A	N/A
+Mystic Confluence	1	U	3UU	N/A	N/A
+Deglamer	1	G	1G	N/A	N/A
+Mausoleum Secrets	1	B	1B	N/A	N/A
+Turnabout	1	U	2UU	N/A	N/A
+Reclaim	1	G	G	N/A	N/A
+Savage Summoning	1	G	G	N/A	N/A
+Ancient Animus	1	G	1G	N/A	N/A
+Ricochet Trap	1	R	3R	R	N/A
+Goryo's Vengeance	1	B	1B	N/A	N/A
+Zealous Persecution	1	WB	WB	N/A	N/A
+Might of Old Krosa	1	G	G	N/A	N/A
+Unsubstantiate	1	U	1U	N/A	N/A
+Nexus of Fate	1	U	5UU	N/A	N/A
+Magnetic Theft	1	R	R	N/A	N/A
+Spectral Shift	1	U	1U	N/A	N/A
+Quicken	1	U	U	N/A	N/A
+Shadow of Doubt	1	UB	U/BU/B	N/A	N/A
+Daze	1	U	1U	0	N/A
+Alter Reality	1	U	1U	N/A	N/A
+Reap	1	G	1G	N/A	N/A
+Glamerdye	1	U	1U	N/A	N/A
+Pull from Eternity	1	W	W	N/A	N/A
+Divergent Transformations	1	R	6R	N/A	N/A
+Invigorate	1	G	2G	0	N/A
+Anticipate	1	U	1U	N/A	N/A
+Groundswell	1	G	G	N/A	N/A
+Pulse of the Grid	1	U	1UU	N/A	N/A
+Whim of Volrath	1	U	U	N/A	N/A
+Prohibit	1	U	1U	N/A	N/A
+Momentous Fall	1	G	2GG	N/A	N/A
+Darkblast	1	B	B	N/A	N/A
